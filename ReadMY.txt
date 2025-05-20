@@ -1,0 +1,7 @@
+https://pypi.org/project/pyTelegramBotAPI/
+
+
+
+
+pip install pyTelegramBotAPI
+pip install python-dotenv
