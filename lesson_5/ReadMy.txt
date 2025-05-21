@@ -1,0 +1,6 @@
+Бот для получение погоды
+погоду получаем с сервиса OpenWeather 
+https://openweathermap.org/city/2643743
+api = "a6e50a8d427b8b10c6791701feeef1af"
+pip install requests    // библиотека позволяет отправлять запрос по url адресу
+https://api.openweathermap.org/data/2.5/weather?q=Seattle&appid=a6e50a8d427b8b10c6791701feeef1af&units=metric

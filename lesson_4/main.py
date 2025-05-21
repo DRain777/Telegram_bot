@@ -8,7 +8,7 @@ import webbrowser
 import sqlite3
 
 
-bot = telebot.TeleBot("7636140010:AAHS4Ko-wd5fpspkQOQn50z-NkFdWuJpJbk")
+bot = telebot.TeleBot("7636140010:AAH5wrUHv8tFjOEaffgE1Ao_B8BSn8U8ROc")
 
 
 name = None
