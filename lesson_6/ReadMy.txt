@@ -1,0 +1,4 @@
+Бот для конвертации валют 
+https://pypi.org/project/CurrencyConverter/
+pip install CurrencyConverter
+from currency_converter import CurrencyConverter
