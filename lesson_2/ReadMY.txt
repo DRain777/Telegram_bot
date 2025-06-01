@@ -5,3 +5,12 @@ https://pypi.org/project/pyTelegramBotAPI/
 
 pip install pyTelegramBotAPI
 pip install python-dotenv
+
+
+
+
+
+https://easyoffer.ru/rating/frontend_developer
+
+
+Задачи для начинающих разного уровня сложности попросить нейро сеть написать задачи.
