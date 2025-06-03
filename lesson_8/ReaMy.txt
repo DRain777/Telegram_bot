@@ -1,3 +1,7 @@
 Web.apps полноценные приложения в телеграм
 pip uninstall aiogram
 pip install aiogram==2.25.1
+
+https://core.telegram.org/bots/webapps Документация для  Apps
+<script src="https://telegram,org/js/telegram-web-app.js"></script>    поддержка телеграмма 
+    
